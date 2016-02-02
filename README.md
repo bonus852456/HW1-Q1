@@ -111,8 +111,6 @@ int main(){
 <img src="Image 1.png" ><br/>
 原圖:<br/>
 <img src="image/aleng.jpg" ><br/>
-如果輸入33%會顯示出亮度較低的原色:<br/>
-<img src="image/Result1.png" ><br/>
 輸入藍色50%顯示出的結果:<br/>
 <img src="image/Result.png" ><br/>
 
