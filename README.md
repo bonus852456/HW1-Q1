@@ -106,7 +106,7 @@ int main(){
 # Theory
 * 三原色光模式
 
-# Disparity result
+# Result
 操作介面:<br/>
 <img src="Image 1.png" ><br/>
 原圖:<br/>
